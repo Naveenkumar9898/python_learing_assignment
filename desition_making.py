@@ -1,4 +1,4 @@
-# if else statement 
+# # if else statement 
 # age=18
 
 # if age>=18:
@@ -7,9 +7,9 @@
 # else:
 #     print("not eligible for voting")
 
-# ==================================================
+# # ==================================================
 
-#elif
+# #elif
 
 # mark=90
 # if mark>=90:
@@ -21,18 +21,18 @@
 # else:
 #     print("fail")
 
-# =====================================================
+# # =====================================================
 
-# nested statement
+# # nested statement
 
-age=10
-license="no"
+# age=10
+# license="no"
 
-if age>=18:
-    if license== "yes":
-        print("eligible")
-    else:
-        print("not eligible")
-else:
-    print("not eligible age")
+# if age>=18:
+#     if license== "yes":
+#         print("eligible")
+#     else:
+#         print("not eligible")
+# else:
+#     print("not eligible age")
 
